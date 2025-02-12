@@ -1,0 +1,20 @@
+body {
+    display: contents;
+    justify-content: center;
+    margin: 0;
+    background-color: #d26c6c;
+  }
+
+  h1 {
+    font-family: "Courier New", Courier, monospace;
+    text-transform: uppercase;
+    font-size: 26px;
+    padding: 1em 0 0 1em;
+    color: #0c686e;
+    text-align: center;
+  }
+
+  .btn-danger {
+    margin-left: 400px;
+    font-size: 1px;
+  }
